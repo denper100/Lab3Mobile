@@ -1,5 +1,78 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">30 дней рецептов</string>
-    <string name="image_desc">Изображение рецепта</string>
+    <!-- App name -->
+    <string name="app_name">30 Days of Recipes</string>
+    <string name="app_subtitle">Culinary tips for every day</string>
+
+    <!-- Common strings -->
+    <string name="image_desc">Recipe image</string>
+    <string name="day_template">Day %d</string>
+
+    <!-- Headers -->
+    <string name="recipes">Recipes</string>
+    <string name="cooking_tips">Cooking Tips</string>
+
+    <!-- Recipe titles (30 items) -->
+    <string name="recipe_1">Classic Omelette</string>
+    <string name="recipe_2">Greek Salad</string>
+    <string name="recipe_3">Creamy Pumpkin Soup</string>
+    <string name="recipe_4">Pasta Carbonara</string>
+    <string name="recipe_5">Vegetable Stew</string>
+    <string name="recipe_6">Chicken Breast in Cream Sauce</string>
+    <string name="recipe_7">Chocolate Brownie</string>
+    <string name="recipe_8">Caesar Salad</string>
+    <string name="recipe_9">Pumpkin Soup</string>
+    <string name="recipe_10">Rice with Vegetables</string>
+    <string name="recipe_11">Baked Fish</string>
+    <string name="recipe_12">Fruit Salad</string>
+    <string name="recipe_13">Homemade Pizza</string>
+    <string name="recipe_14">Smoothie</string>
+    <string name="recipe_15">Lazy Vareniki</string>
+    <string name="recipe_16">Borscht</string>
+    <string name="recipe_17">Beef Stroganoff</string>
+    <string name="recipe_18">Pancakes</string>
+    <string name="recipe_19">Cottage Cheese Casserole</string>
+    <string name="recipe_20">Spaghetti with Seafood</string>
+    <string name="recipe_21">Cabbage Salad</string>
+    <string name="recipe_22">Mashed Potatoes</string>
+    <string name="recipe_23">Chicken Cutlets</string>
+    <string name="recipe_24">Carrot Cake</string>
+    <string name="recipe_25">Cheese Soup</string>
+    <string name="recipe_26">Stuffed Bell Peppers</string>
+    <string name="recipe_27">Crepes</string>
+    <string name="recipe_28">Lasagna</string>
+    <string name="recipe_29">Julienne</string>
+    <string name="recipe_30">Fruit Tart</string>
+
+    <!-- Recipe descriptions (30 items) -->
+    <string name="desc_1">Whisk 2 eggs with 50 ml of milk, add salt and pepper. Heat a pan with oil. Pour the mixture and cook covered over low heat for 3-4 minutes. Serve with herbs and fresh vegetables. Tip: add a little flour for fluffiness.</string>
+    <string name="desc_2">Chop cucumbers, tomatoes, bell peppers and red onion into large pieces. Add olives and feta cheese cubes. Dress with olive oil, lemon juice, oregano and salt. Mix gently. Serve with warm bread.</string>
+    <string name="desc_3">Sauté onion, carrot and pumpkin cubes in oil. Add chicken broth, cook until soft for 20 minutes. Blend until smooth. Add cream, nutmeg and salt. Heat for 2 minutes. Serve with pumpkin seeds.</string>
+    <string name="desc_4">Fry bacon or pancetta until crispy. Cook spaghetti al dente. Mix 2 eggs with grated Parmesan and black pepper. Combine hot pasta with bacon, remove from heat, add egg mixture and mix quickly. Do not heat to prevent eggs from curdling.</string>
+    <string name="desc_5">Cube zucchini, eggplant, bell peppers and tomatoes. Sauté onion and garlic, add all vegetables. Simmer covered for 20 minutes. Add herbs de Provence, salt and pepper. Serve with sour cream or fresh herbs.</string>
+    <string name="desc_6">Slice chicken breast lengthwise, pound, season with salt and pepper. Fry both sides until golden. Add cream, garlic and spinach. Simmer over low heat for 10-15 minutes until done. Serve with rice or mashed potatoes.</string>
+    <string name="desc_7">Melt 200 g dark chocolate with 100 g butter. Beat 3 eggs with 150 g sugar, add chocolate mixture and 100 g flour. Bake for 20-25 minutes at 180°C. The inside should remain moist. Serve with a scoop of ice cream.</string>
+    <string name="desc_8">For the sauce, mix poached egg, olive oil, garlic, lemon juice and Parmesan. Tear romaine lettuce leaves by hand, add fried chicken, croutons and sauce. Sprinkle with grated Parmesan. Serve immediately.</string>
+    <string name="desc_9">Cook pumpkin with ginger, carrot, onion and apple in broth for 20 minutes. Blend, add cream and salt. Heat. Serve with pumpkin seeds and fresh basil. Great with ciabatta croutons.</string>
+    <string name="desc_10">Sauté onion, carrot, corn and green peas. Add rice, pour water or broth (ratio 1:2). Cook covered for 15-20 minutes. Add salt, pepper and butter. Serve as a side dish or main course.</string>
+    <string name="desc_11">Season fish with salt and pepper, drizzle with lemon. Add rosemary, thyme and garlic. Wrap in foil, bake for 20 minutes at 200°C. Serve with roasted vegetables: broccoli, cauliflower and carrots.</string>
+    <string name="desc_12">Cube apples, bananas, oranges, kiwis, add grapes and strawberries. Dress with natural yogurt with honey and mint. Serve chilled. Add walnuts for crunch.</string>
+    <string name="desc_13">Roll out yeast dough into a circle. Spread tomato sauce, add mozzarella, pepperoni, mushrooms, olives. Sprinkle with oregano. Bake for 15 minutes at 220°C until golden brown. Serve hot.</string>
+    <string name="desc_14">Blend banana, frozen berries, natural yogurt, honey and a little milk. Blend until smooth. Serve immediately, garnished with mint and fresh berries. Perfect breakfast or snack.</string>
+    <string name="desc_15">Mix 500 g cottage cheese, 1 egg, 2 tbsp sugar, pinch of salt and 150 g flour. Form a log, slice into pieces. Boil in boiling water for 3-5 minutes. Serve with sour cream, jam or melted butter.</string>
+    <string name="desc_16">Cook meat broth. Separately sauté beets with vinegar. Add potatoes, cabbage, carrots and onion to the broth. Add beets 10 minutes before done. Serve with sour cream, herbs and garlic. Tastes better the next day.</string>
+    <string name="desc_17">Cut beef into strips, fry until golden. Add onion, after 5 minutes add sour cream and mustard. Simmer for 30 minutes over low heat. Serve with mashed potatoes, rice or buckwheat.</string>
+    <string name="desc_18">Mix 500 ml kefir, 2 eggs, 2 tbsp sugar, pinch of salt, 1 tsp baking soda and 300 g flour. Fry on a heated skillet with oil until golden. Serve with honey, sour cream, jam or condensed milk.</string>
+    <string name="desc_19">Mix 500 g cottage cheese, 2 eggs, 3 tbsp semolina, 3 tbsp sugar, vanilla and raisins. Place in a greased pan. Bake for 30-40 minutes at 180°C. Serve with sour cream or condensed milk.</string>
+    <string name="desc_20">Sauté garlic in olive oil, add shrimp, mussels, squid. Add cream, salt, pepper. Mix with cooked spaghetti. Sprinkle with Parmesan and parsley. Serve with a glass of white wine.</string>
+    <string name="desc_21">Thinly slice white cabbage, grate carrot. Add salt, massage with hands for juiciness. Dress with vinegar, vegetable oil, sugar. Add cranberries or apple for tanginess. Serve chilled.</string>
+    <string name="desc_22">Boil potatoes in salted water until done. Drain water, add butter and hot milk. Mash with a potato masher until smooth. Do not use a blender - the puree will become sticky. Serve with meat or fish.</string>
+    <string name="desc_23">Mix ground chicken with finely chopped onion, egg, bread soaked in milk, salt and pepper. Form cutlets, fry both sides until golden. Then simmer covered for 10 minutes. Serve with any side dish.</string>
+    <string name="desc_24">Mix 3 eggs with 200 g sugar, add 200 ml oil, 300 g grated carrot, 250 g flour, 1 tsp cinnamon, baking powder and 100 g nuts. Bake for 40-45 minutes at 180°C. Frost with cream cheese and powdered sugar.</string>
+    <string name="desc_25">Cook potatoes, carrots and onion in chicken broth. Add 200 g processed cheese, stirring constantly. Blend or leave chunky. Add herbs, white bread croutons. Serve hot.</string>
+    <string name="desc_26">Mix ground meat with cooked rice, onion, salt and pepper. Stuff bell peppers. Fry in a pan, add tomato sauce. Simmer for 40-50 minutes. Serve with sour cream and fresh herbs.</string>
+    <string name="desc_27">Mix 500 ml milk, 3 eggs, 2 tbsp sugar, pinch of salt, 200 g flour, 2 tbsp oil. Fry on a hot skillet on both sides. Fill with cottage cheese, meat, mushrooms or caviar. Serve with sour cream.</string>
+    <string name="desc_28">Make Bolognese sauce: fry ground meat with onion, add tomatoes. Make béchamel: melt butter, add flour, milk. Layers: lasagna sheets, Bolognese, béchamel, cheese. Repeat. Bake for 40 minutes at 180°C.</string>
+    <string name="desc_29">Sauté mushrooms with onion, add cream, simmer for 5 minutes. Place in cocotte dishes, sprinkle with grated cheese. Bake for 15 minutes at 200°C until golden. Serve hot with white bread.</string>
+    <string name="desc_30">Roll out shortcrust pastry, bake the base for 15 minutes. Make custard: egg yolks, sugar, flour, milk. Fill the base with custard, decorate with fresh fruits: kiwi, strawberries, mango. Glaze for shine.</string>
 </resources>

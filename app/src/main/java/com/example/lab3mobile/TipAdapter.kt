@@ -30,7 +30,8 @@ class TipAdapter(
         private val ivImage: ImageView = itemView.findViewById(R.id.iv_image)
 
         fun bind(tip: Tip) {
-            tvDay.text = "День ${tip.day}"
+            // Используем строковый ресурс для дня
+            tvDay.text = itemView.context.getString(R.string.day_template, tip.day)
             tvTitle.text = tip.title
             tvFullDescription.text = tip.fullDescription
             ivImage.setImageResource(tip.imageResId)

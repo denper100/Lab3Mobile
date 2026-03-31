@@ -17,7 +17,8 @@ class MainActivity : AppCompatActivity() {
         recyclerView = findViewById(R.id.recycler_view)
         recyclerView.layoutManager = LinearLayoutManager(this)
 
-        val tips = TipDataSource.getTips()
+        // Получаем советы с использованием контекста для локализации
+        val tips = TipDataSource.getTips(this)
         adapter = TipAdapter(tips)
         recyclerView.adapter = adapter
     }
