@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#FF6B35</color>
+    <color name="colorPrimaryDark">#E55A2C</color>
+    <color name="colorAccent">#FFA500</color>
+    <color name="background">#F8F8F8</color>
+    <color name="day_text">#FF6B35</color>
+    <color name="title_text">#2C3E50</color>
+    <color name="description_text">#7F8C8D</color>
+    <color name="card_background">#FFFFFF</color>
 </resources>
